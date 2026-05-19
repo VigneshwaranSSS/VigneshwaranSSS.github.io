@@ -74,4 +74,6 @@ Git, Jira, Microsoft Teams, Slack, Discord, QGIS, AutoCAD, Revit, Microsoft Offi
  
 ## ACADEMIC PROFILE 
  
-Bachelors in Engineering - Civil        SSM Institute of Engineering and Technology, Dindigul          CGPA: 7.17  [Aug 2014 - Apr 2018]
+### Bachelors in Engineering - Civil        
+#### SSM Institute of Engineering and Technology, Dindigul            [Aug 2014 - Apr 2018]
+*CGPA: 7.17*
