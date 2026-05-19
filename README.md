@@ -50,20 +50,13 @@ sign post, lamp pole, barriers, bridge piers for training the automated driving 
  
 ## SKILLS 
  
-#### Machine Learning & AI: 
-NLP, Computer Vision, LLM Basics, RAG, Model Evaluation, Classification, Regression, Clustering, GenAI 
-#### Data Annotation: 
-Data Labeling, Named Entity Recognition, Semantic Segmentation, Text Classification, Polygon Annotation 
-#### Data Analysis: 
-Data Cleaning, Data Validation, Data Augmentation, SQL, Data Visualization, Storytelling, Web scrapping 
-#### Programming & Tools: 
-Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, MySQL, Bigquery, Spark, R 
-#### Visualization & Analytics: 
-Power BI, Tableau, Google Data Studio, Matplotlib, Seaborn, Microsoft Excel 
-#### Annotation Tools: 
-Label Studio, LabelImg, CVAT, Labelbox, Amazon SageMaker Ground Truth, Roboflow, Scale AI 
-#### Other Tools: 
-Git, Jira, Microsoft Teams, Slack, Discord, QGIS, AutoCAD, Revit, Microsoft Office, Google Suite, Google Translate 
+**Machine Learning & AI:** NLP, Computer Vision, LLM Basics, RAG, Model Evaluation, Classification, Regression, Clustering, GenAI 
+**Data Annotation:** Data Labeling, Named Entity Recognition, Semantic Segmentation, Text Classification, Polygon Annotation 
+**Data Analysis:** Data Cleaning, Data Validation, Data Augmentation, SQL, Data Visualization, Storytelling, Web scrapping 
+**Programming & Tools:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, MySQL, Bigquery, Spark, R 
+**Visualization & Analytics:** Power BI, Tableau, Google Data Studio, Matplotlib, Seaborn, Microsoft Excel 
+**Annotation Tools:** Label Studio, LabelImg, CVAT, Labelbox, Amazon SageMaker Ground Truth, Roboflow, Scale AI 
+**Other Tools:** Git, Jira, Microsoft Teams, Slack, Discord, QGIS, AutoCAD, Revit, Microsoft Office, Google Suite, Google Translate 
  
 ## PROJECTS  
  
