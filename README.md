@@ -10,7 +10,7 @@ collaboration. Maintained 99.5%+ accuracy across 500,000+ processed records whil
 ## WORK EXPERIENCE                                                                                                                                          
     
 ### Data Processing Executive -
-## Infrrd pvt ltd                                                                      Bengaluru, Karnataka  [May 2023  -  Present] 
+#### Infrrd pvt ltd                                                                      Bengaluru, Karnataka  [May 2023  -  Present] 
 * Performed high-precision data annotation and validation on U.S. automobile and mortgage insurance documents, 
 ensuring accurate extraction of property, financial and policy attributes, significantly improving training datasets. 
 * Maintained 99.5%+ annotation accuracy across 500,000+ documents based on Client QA reviews and validation checks. 
@@ -20,19 +20,19 @@ ensuring accurate extraction of property, financial and policy attributes, signi
 * Ensured compliance with data governance and privacy standards during annotation workflows.          
                            
 ### Data Annotator - 
-## AlignMinds Technologies                                                                          Kochi, Kerala  [Jan 2023  - Feb 2023] 
+#### AlignMinds Technologies                                                                          Kochi, Kerala  [Jan 2023  - Feb 2023] 
 * Labeled image data to train computer vision models identifying second-hand vehicle damage 
 * Worked with datasets involving scratches, dents, rust, and body damage for automotive valuation          
                           
 ### Data Annotator - 
-## Remotasks                                                                                                        [Dec 2021 - Apr 2023] * Performed text data annotation on a variety of structured and unstructured financial documents, including bills, 
+#### Remotasks                                                                                                        [Dec 2021 - Apr 2023] * Performed text data annotation on a variety of structured and unstructured financial documents, including bills, 
 invoices, import-export quotations, and bank mortgage notification emails 
 * Performed  3D & 2D LIDAR annotation cuboid and semantic segmentation on labelling of vehicles, road elements such 
 as ego lanes, other lanes and traffic elements like traffic light, traffic sign, traffic guides and other static structures like 
 sign post, lamp pole, barriers, bridge piers for training the automated driving system machine learning AI         
                        
 ### Cofounder & Furniture designer -
-## Effspace pvt ltd (Startup)                                                                                       [Feb 2021 - Dec 2022] 
+#### Effspace pvt ltd (Startup)                                                                                       [Feb 2021 - Dec 2022] 
 * Designed modular furniture systems and led visualization projects using design & 3D rendering tools 
 * Demonstrated entrepreneurial thinking and end-to-end project management 
  
@@ -49,20 +49,20 @@ sign post, lamp pole, barriers, bridge piers for training the automated driving 
  
 ## SKILLS 
  
-### Machine Learning & AI: 
+#### Machine Learning & AI: 
 NLP, Computer Vision, LLM Basics, RAG, Model Evaluation, Classification, Regression, Clustering, GenAI 
-### Data Annotation: 
+#### Data Annotation: 
 Data Labeling, Named Entity Recognition, Semantic Segmentation, Text Classification, Polygon Annotation 
-### Data Analysis: 
+#### Data Analysis: 
 Data Cleaning, Data Validation, Data Augmentation, SQL, Data Visualization, Storytelling, Web scrapping 
-### Programming & Tools: 
+#### Programming & Tools: 
 Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, MySQL, Bigquery, Spark, R 
-### Visualization & Analytics: 
+#### Visualization & Analytics: 
 Power BI, Tableau, Google Data Studio, Matplotlib, Seaborn, Microsoft Excel 
-### Annotation Tools: 
+#### Annotation Tools: 
 Label Studio, LabelImg, CVAT, Labelbox, Amazon SageMaker Ground Truth, Roboflow, Scale AI 
-### Other Tools: Git, 
-Jira, Microsoft Teams, Slack, Discord, QGIS, AutoCAD, Revit, Microsoft Office, Google Suite, Google Translate 
+#### Other Tools: 
+Git, Jira, Microsoft Teams, Slack, Discord, QGIS, AutoCAD, Revit, Microsoft Office, Google Suite, Google Translate 
  
 ## PROJECTS  
  
