@@ -68,8 +68,10 @@ Git, Jira, Microsoft Teams, Slack, Discord, QGIS, AutoCAD, Revit, Microsoft Offi
 ## PROJECTS  
  
 * House Prices Prediction using LightGBM Regressor [Link](https://github.com/VigneshwaranSSS/VS/blob/main/house-prices-advanced-regression-techniques.ipynb)
+
 *LightGBM, Pandas, NumPy, Matplotlib, Scikit-learn* 
 * Exploring Predictive Health Factors of Polycystic Ovary Syndrome [Link](https://github.com/VigneshwaranSSS/VS/blob/main/exploring-predictive-health-factors.ipynb)
+
 *GridSearchCV, Seaborn, Scikit-learn* 
  
 ## ACADEMIC PROFILE 
