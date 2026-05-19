@@ -2,13 +2,13 @@
 
 ## PROFESSIONAL SUMMARY 
     
-Data Operations and Analytics Professional with 3+ years of experience in data processing, quality assurance, validation, and 
-analytics across financial and insurance domains. Skilled in handling structured and unstructured datasets, maintaining high data 
-accuracy and supporting fast-paced production workflows. Proficient in SQL, Python, Excel, reporting and cross-functional 
-collaboration. Maintained 99.5%+ accuracy across 500,000+ processed records while ensuring timely data delivery. 
+* Data Operations and Analytics Professional with 3+ years of experience in data processing, quality assurance, validation, and 
+analytics across financial and insurance domains. 
+* Skilled in handling structured and unstructured datasets, maintaining high data accuracy and supporting fast-paced production workflows. 
+* Proficient in SQL, Python, Excel, reporting and cross-functional collaboration. 
+* Maintained 99.5%+ accuracy across 500,000+ processed records while ensuring timely data delivery. 
  
 ## WORK EXPERIENCE                                                                                                                                          
-    
 ### Data Processing Executive -
 #### Infrrd pvt ltd                                                                      Bengaluru, Karnataka  [May 2023  -  Present] 
 * Performed high-precision data annotation and validation on U.S. automobile and mortgage insurance documents, 
