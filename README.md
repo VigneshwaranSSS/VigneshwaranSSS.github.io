@@ -67,8 +67,10 @@ Git, Jira, Microsoft Teams, Slack, Discord, QGIS, AutoCAD, Revit, Microsoft Offi
  
 ## PROJECTS  
  
-* House Prices Prediction using LightGBM Regressor | [Link]                 LightGBM, Pandas, NumPy, Matplotlib, Scikit-learn 
-* Exploring Predictive Health Factors of Polycystic Ovary Syndrome| [Link]                  GridSearchCV, Seaborn, Scikit-learn 
+* House Prices Prediction using LightGBM Regressor | [Link]
+  *LightGBM, Pandas, NumPy, Matplotlib, Scikit-learn* 
+* Exploring Predictive Health Factors of Polycystic Ovary Syndrome| [Link]
+  *GridSearchCV, Seaborn, Scikit-learn* 
  
 ## ACADEMIC PROFILE 
  
