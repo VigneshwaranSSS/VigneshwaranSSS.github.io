@@ -25,7 +25,8 @@ ensuring accurate extraction of property, financial and policy attributes, signi
 * Worked with datasets involving scratches, dents, rust, and body damage for automotive valuation          
                           
 ### Data Annotator - 
-#### Remotasks                                                                                                        [Dec 2021 - Apr 2023] * Performed text data annotation on a variety of structured and unstructured financial documents, including bills, 
+#### Remotasks                                                                                                      [Dec 2021 - Apr 2023] 
+* Performed text data annotation on a variety of structured and unstructured financial documents, including bills, 
 invoices, import-export quotations, and bank mortgage notification emails 
 * Performed  3D & 2D LIDAR annotation cuboid and semantic segmentation on labelling of vehicles, road elements such 
 as ego lanes, other lanes and traffic elements like traffic light, traffic sign, traffic guides and other static structures like 
