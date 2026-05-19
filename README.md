@@ -1,13 +1,13 @@
 # Welcome to my Portfolio
 
-PROFESSIONAL SUMMARY 
+## PROFESSIONAL SUMMARY 
     
 Data Operations and Analytics Professional with 3+ years of experience in data processing, quality assurance, validation, and 
 analytics across financial and insurance domains. Skilled in handling structured and unstructured datasets, maintaining high data 
 accuracy and supporting fast-paced production workflows. Proficient in SQL, Python, Excel, reporting and cross-functional 
 collaboration. Maintained 99.5%+ accuracy across 500,000+ processed records while ensuring timely data delivery. 
  
-WORK EXPERIENCE                                                                                                                                          
+## WORK EXPERIENCE                                                                                                                                          
     
 Data Processing Executive - Infrrd pvt ltd                                                                      Bengaluru, Karnataka  [May 2023  -  Present] 
  Performed high-precision data annotation and validation on U.S. automobile and mortgage insurance documents, 
@@ -33,7 +33,7 @@ sign post, lamp pole, barriers, bridge piers for training the automated driving 
  Designed modular furniture systems and led visualization projects using design & 3D rendering tools 
  Demonstrated entrepreneurial thinking and end-to-end project management 
  
-PROFESSIONAL QUALIFICATION 
+## PROFESSIONAL QUALIFICATION 
  
  Certified in Cybersecurity (CC) - ISC2 
  IBM Machine Learning Professional certificate - coursera  
@@ -44,7 +44,7 @@ PROFESSIONAL QUALIFICATION
  Prompt Engineering for Everyone - cognitiveclass by IBM  
  Accenture North America - Data Analytics and Visualization Job Simulation - Forage 
  
-SKILLS 
+## SKILLS 
  
 Machine Learning & AI: NLP, Computer Vision, LLM Basics, RAG, Model Evaluation, Classification, Regression, Clustering, GenAI 
 Data Annotation: Data Labeling, Named Entity Recognition, Semantic Segmentation, Text Classification, Polygon Annotation 
@@ -54,11 +54,11 @@ Visualization & Analytics: Power BI, Tableau, Google Data Studio, Matplotlib, Se
 Annotation Tools: Label Studio, LabelImg, CVAT, Labelbox, Amazon SageMaker Ground Truth, Roboflow, Scale AI 
 Other Tools: Git, Jira, Microsoft Teams, Slack, Discord, QGIS, AutoCAD, Revit, Microsoft Office, Google Suite, Google Translate 
  
-PROJECTS  
+## PROJECTS  
  
  House Prices Prediction using LightGBM Regressor | [Link]                 LightGBM, Pandas, NumPy, Matplotlib, Scikit-learn 
  Exploring Predictive Health Factors of Polycystic Ovary Syndrome| [Link]                  GridSearchCV, Seaborn, Scikit-learn 
  
-ACADEMIC PROFILE 
+## ACADEMIC PROFILE 
  
 Bachelors in Engineering - Civil        SSM Institute of Engineering and Technology, Dindigul          CGPA: 7.17  [Aug 2014 - Apr 2018]
