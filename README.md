@@ -73,5 +73,5 @@ sign post, lamp pole, barriers, bridge piers for training the automated driving 
 #### SSM Institute of Engineering and Technology, Dindigul            [Aug 2014 - Apr 2018]
 *CGPA: 7.17*
 
-![Alt text](/assets/images/insdat.png)
+
 
