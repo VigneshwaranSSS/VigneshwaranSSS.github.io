@@ -1,6 +1,6 @@
 # Welcome to my Portfolio
 
-[contact](https://vigneshwaransss.github.io/contact/)
+[sundarvignesh23@gmail.com](sundarvignesh23@gmail.com) [LinkedIn](http://www.linkedin.com/in/vigneshwaran-sundaravadivelu-83830913a) [Kaggle](http://www.kaggle.com/vigneshwaransundar)
 
 ## PROFESSIONAL SUMMARY 
     
